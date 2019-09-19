@@ -1,0 +1,50 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "first_name": "mohamed",
+    "last_name": "Gemy",
+    "age": 24,
+    "mail": "MohamedGamal@yahoo.com"
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "first_name": "mohammed",
+    "last_name": "hassan",
+    "age": 22,
+    "mail": "MohamedHassan@yahoo.com"
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "first_name": "mahmood",
+    "last_name": "badr",
+    "age": 20,
+    "mail": "MohmoodBadr@yahoo.com"
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "first_name": "ahmed",
+    "last_name": "ali",
+    "age": 26,
+    "mail": "AhmedAli@yahoo.com"
+  },
+  {
+    "userId": 5,
+    "id": 5,
+    "first_name": "karim",
+    "last_name": "mamdooh",
+    "age": 28,
+    "mail": "KarimMamdooh@yahoo.com"
+  },
+  {
+    "userId": 6,
+    "id": 6,
+    "first_name": "islam",
+    "last_name": "amr",
+    "age": 25,
+    "mail": "IslamAmr@yahoo.com"
+  }
+]
